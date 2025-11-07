@@ -41,3 +41,7 @@ Cada actividad está directamente vinculada con una fase del diseño del sistema
 Este plan permite organizar el trabajo y visualizar el avance de cada fase. Además, facilita la trazabilidad de los entregables y mejora la comunicación del equipo durante el desarrollo del proyecto.
 -----
 Nota: las fechas pueden variar según retroalimentación del instructor.
+---
+## ✍️ Observaciones adicionales
+Se recomienda revisar y actualizar esta planeación cada semana
+para mantener la trazabilidad del proyecto y los entregables.
