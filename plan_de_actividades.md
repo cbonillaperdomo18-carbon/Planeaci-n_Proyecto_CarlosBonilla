@@ -45,3 +45,29 @@ Nota: las fechas pueden variar según retroalimentación del instructor.
 ## ✍️ Observaciones adicionales
 Se recomienda revisar y actualizar esta planeación cada semana
 para mantener la trazabilidad del proyecto y los entregables.
+
+---
+
+## 🧠 Reflexión final
+
+### 💬 ¿Qué dificultades encontraste al usar GitHub para planificar tu proyecto?
+Al inicio tuve dificultad para entender el flujo de trabajo entre ramas y commits, especialmente al crear y comparar ramas para hacer Pull Requests. Sin embargo, con la práctica aprendí a seguir un orden lógico y a usar los mensajes de commit para dejar evidencia clara de cada avance.
+
+---
+
+### 💬 ¿Qué beneficios te aportó GitHub para organizar las tareas y visualizar el avance?
+GitHub me permitió mantener la planeación centralizada y visible, ver los cambios por etapas y tener trazabilidad de cada ajuste. Las ramas, commits y Pull Requests me ayudaron a entender el progreso del proyecto y cómo se relacionan las actividades con los entregables del diseño.
+
+---
+
+### 💬 ¿Cómo podrías integrar el control de versiones en un entorno laboral real?
+En un entorno laboral real, el control de versiones se integraría para coordinar el trabajo entre varios desarrolladores, permitiendo registrar los cambios, evitar pérdidas de código y mantener versiones estables del sistema. También facilitaría revisiones de código, despliegues controlados y retrocesos en caso de errores.
+
+---
+
+### 💬 ¿Qué aspectos del trabajo colaborativo aprendiste que podrías aplicar en el desarrollo de software dentro de un equipo profesional?
+Aprendí que la comunicación y la organización son claves. El uso de ramas para tareas específicas, los mensajes claros en los commits y los Pull Requests con comentarios mejoran la colaboración. Estas prácticas fomentan la responsabilidad individual, la revisión en equipo y la calidad del producto final.
+
+---
+
+
